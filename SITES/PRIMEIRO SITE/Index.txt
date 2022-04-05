@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<img src="fundo.jpg" height="10%" width="100%" align="center"></>
+
+	
+
+        <h1 style="color:cyan;" align="center">SAMUEL TOLEDO</h1>
+
+     
+
+        
+	<title> PRIMEIRO SITE </title> 
+   
+	
+</head>
+<body>
+	<body style="background-color:black; font-size: 15pt;">
+		<br></br>
+        <h2 style="color:cyan;" align="center">Sobre</h2>
+        
+            <p style="color:cyan;" align="center">Estudante da universidade federal IF Goiano Campus Morrinhos no curso de TSI. </p>
+ 
+            <p style="color:cyan;" align="center">Gosto bastante de jogos,tecnologia,informação,filmes,animes,series,coisas normais de jovem rsrs..</p>
+ 
+            <br></br>
+ 
+        <h2 style="color:cyan;" align="center" >Jogos</h2>
+            
+            <p style="color:cyan;" align="center">Área destinada aos jogos que eu mais gosto e ja zerei! <br></br>
+            League of Legends <br></br>
+            Conter Strike <br></br> Minecraft <br></br> GTA V <br></br>  Need For Speed <br></br>  Valorant <br></br>  Mir4 <br></br>  Rust <br></br>  DCS World <br></br> Brawlhalla<br></br> Vrchat<br></br> Euro Truck Simulator Lost Ark<br></br> .</p>
+
+            <h2 style="color:cyan;" align="center">Animes / Series / Filmes</h2>
+
+            <p style="color:cyan;" align="center">Área destinada a series e filmes e animes que eu gosto! <br></br>
+            	Hunter x Hunter <br></br>
+            	Naruto <br></br>
+            	Boruto <br></br>
+            	Arifureta <br></br>
+            	Tensei Shitara Slime Datta Ken <br></br>
+            	Vanitas no Carte  <br></br> 
+            	Dragon Ball  <br></br>
+            	One Punch-Man  <br></br>
+            	Classroom of the Elite   <br></br>
+
+
+
+            <h2 style="color:cyan;" align="center">Final</h2>
+ 
+            <p style="color:cyan;" align="center">Para finalizar, gostaria de dizer que estou gostando bastande do curso de TSI, e aprendendo muitas coisas novas, espero aprender ainda mais, e chegar no nivel da ELITE dos programadores!.</p>
+
+            <br></br>
+ 
+    </body>
+ 
+    <footer>
+
+        <p style="color:cyan"> Feito por: <a style="color:white"> Samuel Toledo</a></p>
+
+        
+        <p style="color:cyan;"> Instagram: <a style="color:white;" href="https://www.instagram.com/_samueltoledo_/?hl=pt-br"> Samuel_Toledo</a> </p>
+        <p style="color:cyan;"> Github: <a style="color:white;" href="https://github.com/TIOSAMBR"> TIOSAMBR </a> </p>
+        
+        <p style="color:cyan;"> E-mail: <a style="color:white;" href="mailto:damucod@gmail.com"> damucod@gmail.com </a> </p>
+
+        <img src="foto.jpg" height="10%" width="10%" align="left"></>
+
+
+
+ 
+ 
+    </footer>
+
+</body>
+</html>
