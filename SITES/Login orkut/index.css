@@ -47,6 +47,7 @@ body{
 
 .card-login{
     width: 50%;
+    height: 50%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -100,6 +101,7 @@ body{
 
 .btn-login{
     width: 100%;
+    height: 13%;
     padding: 16px 0px;
     margin: 25px;
     border: none;
@@ -112,4 +114,11 @@ body{
     background: #f477ff;
     cursor: pointer;
     box-shadow: 0px 10px 40px -12px #00ff8052;
+    transition: all 300ms ease-in-out;
+
+}
+.btn-login:hover {
+    opacity: 50%;
+    width: 102%;
+    height: 14%;
 }
