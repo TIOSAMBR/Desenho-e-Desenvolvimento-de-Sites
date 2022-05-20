@@ -1,0 +1,11 @@
+ul{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+body{
+    margin: 0;
+    font-family: sans-serif;
+}
