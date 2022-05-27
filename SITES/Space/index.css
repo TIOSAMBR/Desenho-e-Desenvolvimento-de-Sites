@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+    margin:  0px 300px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.link{
+    color: red;
+    font-size: 25px;
+    
+    
+}
+
+.img1{
+   width: 800px;
+}
+
+.titulo{
+    font-size: 60px;
+    color: red;
+    font-style: italic ;
+    border: 2px solid red;
+}
