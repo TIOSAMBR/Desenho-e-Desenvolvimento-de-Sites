@@ -23,3 +23,8 @@ body{
     font-style: italic ;
     border: 2px solid red;
 }
+
+.lista{
+    padding: 0;
+    text-align: left;
+}
