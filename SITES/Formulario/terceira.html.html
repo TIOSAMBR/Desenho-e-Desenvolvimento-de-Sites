@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+
+    <title> Formulario</title>
+    <link rel="stylesheet" href="Style.css">
+
+  
+  </head>
+
+  <body>
+
+    <div id="Conteudo">
+        <section id="contato">
+        
+        </section>
+    </div>
+    <header>
+    <h1>Formulário de Orçamento</h1>
+            <form id="pesquisar" method="get">
+              <p><label>Pesquisa:</label> <input type="text" name="tPesquisa" id="cPesquisa">
+                <input type="submit" name="bSub" id="cSub" value="Enviar">
+            </p>  
+            </form>
+    </header>
+    <section>
+        <form method="post" id="f-contato" action="damucod@gmail.com">
+            <fieldset id="id_usuario">
+                <legend>Identificação do Usuário</legend>
+                <p><label for="cNome">Nome</label><input type="text" name="tNome" id="cNome" size="100" maxlength="50" placeholder="Nome Completo"></p>
+                <p><label for="cSenha">Senha</label><input type="password" name="tSenha" id="cSenha" size="100" maxlength="50" placeholder="Senha Válida"></p>
+                <p><label for="cEmail">e-mail</label><input type="text" name="tEmail" id="cEmail" size="25" maxlength="40" placeholder="E-mail Válido"></p>
+                <fieldset id="sexo_usuario">
+                    <legend>Sexo</legend>
+                    <p><input type="radio" name="rSexo" id="cMasc"><label for="cMasc">Masculino</label></p>
+                    <p><input type="radio" name="rSexo" id="cFerm"><label for="cFerm">Feminino</label></p>
+                    <p><lanel for="cDate">Data de Nascimento</lanel><input type="date" name="tDate" id="cDate"></p>
+                </fieldset>
+            </fieldset>
+
+            <fieldset id="end_usuario">
+                <legend>Endereço de Usuário</legend>
+                <p><lanel for="cLog"> Logradouro</lanel><input type="Logradouro" name="tLog" id="cLog"></p>
+                <p><lanel for="cBai"> Bairro</lanel><input type="Bairro" name="tBai" id="cBai"></p>
+                <p><lanel for="cNum"> Número</lanel><input type="Number" name="tNum" id="cNum" min="0" max="9999"></p>
+                <p><lanel for="cCom"> Complemento</lanel><input type="Complemento" name="tCom" id="cCom"></p>
+                <p><label for="cEst">Estado</label></p>
+                <select name="tEst" id="cEst">
+                    <option>Brasília</option>
+                    <option selected="true">Goiás</option>
+                    <option>Mato Grosso</option>
+                    <option>Mato Grosso do Sul</option>
+                </select>
+                <p><label for="cCid">Cidade</label><input type="text" name="tCid" id="cCid" maxlength="40" size="30" placeholder="Sua Cidade"></p>
+                <datalist id="cidade">
+                  <option value="Goiânia"></option>
+                  <option value="Morrinhos"></option>
+                  <option value="Catalão"></option>
+                  <option value="Goiandira"></option>
+                </datalist>
+            </fieldset>
+
+            <fieldset id="msn_usuario">
+                <legend>Orçamento</legend>
+                <p><label for="cUrg"><label>Min<input type="range" name="tUrg" id="cUrg" min="0" max="10" step="2">Máx</p>
+            </fieldset>
+        </form>
+    </section>
+    <footer>
+        <address>Samuel Toledo&copy;</address>
+    </footer>
+   
+  </body>
+</html>
